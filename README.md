@@ -16,11 +16,11 @@ Principalmente los siguientes aspectos:
 2. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 3. **Antes de comenzar a programar:**
     * Realizar un `Fork` de este repositorio (https://github.com/ORCAapplicants/backend-test).
-    * Clonar el fork a su máquina local  `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
+    * Clonar el fork a su máquina local  
     * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
 6. **Al finalizar**, existen 2 (dos) opciones para entregar su proyecto:
-    * 1) Realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico  [developer@gcpglobal.com](mailto:developer@gcpglobal.com).
-    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico  [developer@gcpglobal.com](mailto:developer@gcpglobal.com).
+    * 1) Realizar un `Commit` de su proyecto, **enviar un `Pull Request` al branch con su NOMBRE**, y notificar a la siguiente dirección de correo electrónico.
+    * 2) Crear un archivo comprimido (_.zip_ o _.rar_) de su proyecto y enviar a la siguiente dirección de correo electrónico.
 
 ## EJERCICIOS
 
